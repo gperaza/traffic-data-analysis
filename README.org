@@ -1,0 +1,7 @@
+An statistical modeling attempt at traffic data.
+
+* Data sources
+- https://github.com/graphhopper/open-traffic-collection
+- https://open-traffic.epfl.ch/index.php/downloads/
+- https://utd19.ethz.ch/
+
