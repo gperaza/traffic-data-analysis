@@ -1,0 +1,38 @@
+#+TITLE: Meeting minutes
+#+FILETAGS: :@Gonzalo:@Didier:@Hector:@Jesus:@Victor:@Luis
+#+TODO: TODO(t) CONT(f) | CANCELED(c) DONE(d)
+
+* Pending Actions
+#+BEGIN: columnview :id global :match "/TODO|DONE" :format "%ITEM(What) %TAGS(Who) %DEADLINE(When) %TODO(State)"
+| What                                              | Who               | When | State |
+|---------------------------------------------------+-------------------+------+-------|
+| [0/3] Explote UTD19 dataset                       | :@Hector:@Victor: |      | TODO  |
+| Create a data dictionary                          |                   |      | TODO  |
+| Summarize the main paper introducing the data set |                   |      | TODO  |
+| Import data into pandas                           |                   |      | TODO  |
+| [0/3]Explore π-Pneuma dataset                     | :@Jesus:@Luis:    |      | TODO  |
+| Create a data dictionary                          |                   |      | TODO  |
+| Summarize the main paper introducing the data set |                   |      | TODO  |
+| Importa data into pandas/geopandas                |                   |      | TODO  |
+#+END:
+
+* <2021-02-22 Mon>
+** Present at meeting
+  - [X] Gonzalo
+  - [X] Didier
+
+** Agenda
+
+
+** Notes
+
+** Action Items
+*** TODO [0/3] Explote UTD19 dataset                        :@Hector:@Victor:
+**** TODO Create a data dictionary
+**** TODO Summarize the main paper introducing the data set
+**** TODO Import data into pandas
+
+*** TODO [0/3]Explore π-Pneuma dataset                         :@Jesus:@Luis:
+**** TODO Create a data dictionary
+**** TODO Summarize the main paper introducing the data set
+**** TODO Importa data into pandas/geopandas
