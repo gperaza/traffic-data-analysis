@@ -1,3 +1,4 @@
 /UTD19/
 pNeuma/
 .ipynb_checkpoints/
+*.parquet
